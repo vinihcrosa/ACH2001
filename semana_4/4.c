@@ -21,7 +21,4 @@ int main()
 {
   double retangulo = areaRetangulo(11, 27);
   printf(" %f \n", retangulo);
-  double quadrado = areaDoQuadrado(10.0);
-  printf(" %f \n", quadrado);
-  return 0;
 }
